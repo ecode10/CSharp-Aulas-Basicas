@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{76C573C5-AE82-46DF-A691-792F7E76DD14}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AulaDebug/Program.cs">
+    <Files>
+      <File FileName="AulaDebug/Program.cs" Line="23" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AulaDebug" expanded="True">
+            <Node name="AulaDebug" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AulaDebug PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

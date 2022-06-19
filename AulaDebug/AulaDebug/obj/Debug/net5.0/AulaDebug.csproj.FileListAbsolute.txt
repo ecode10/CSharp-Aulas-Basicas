@@ -1,0 +1,15 @@
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/bin/Debug/net5.0/AulaDebug.deps.json
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/bin/Debug/net5.0/AulaDebug.runtimeconfig.json
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/bin/Debug/net5.0/AulaDebug.runtimeconfig.dev.json
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/bin/Debug/net5.0/AulaDebug.dll
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/bin/Debug/net5.0/ref/AulaDebug.dll
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/bin/Debug/net5.0/AulaDebug.pdb
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/obj/Debug/net5.0/AulaDebug.csproj.AssemblyReference.cache
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/obj/Debug/net5.0/AulaDebug.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/obj/Debug/net5.0/AulaDebug.AssemblyInfoInputs.cache
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/obj/Debug/net5.0/AulaDebug.AssemblyInfo.cs
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/obj/Debug/net5.0/AulaDebug.csproj.CoreCompileInputs.cache
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/obj/Debug/net5.0/AulaDebug.dll
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/obj/Debug/net5.0/ref/AulaDebug.dll
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/obj/Debug/net5.0/AulaDebug.pdb
+/Users/mauriciojunior/Projects/AulaDebug/AulaDebug/obj/Debug/net5.0/AulaDebug.genruntimeconfig.cache
